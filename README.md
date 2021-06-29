@@ -6,6 +6,7 @@ Instalación:
 - Posicionado en la carpeta del proyecto, ejecutar los comandos:
 - Instalar dependiencias de NPM: npm install
 - Instalar dependencias de composer: composer install
+- Crear archivo .env: copy .env.example .env
 - Ejecutar el proyecto: php artisan serve
 
 
